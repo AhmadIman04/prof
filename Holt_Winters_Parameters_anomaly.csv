@@ -1,0 +1,13 @@
+,subcluster,trend,seasonal,seasonal_periods,avg_mape
+0,Makeup Tutorials & Challenges_3,add,add,28,24.776401637816775
+1,Educational Skincare & Wellness_0,add,add,17,40.511043044747154
+2,Educational Skincare & Wellness_1,add,add,25,17.89358574600543
+3,Hair Styling & Transformations_4,add,add,27,34.77205620830438
+4,Hair Styling & Transformations_0,add,add,20,39.8362263956544
+5,Hair Styling & Transformations_6,add,add,20,38.07033469522534
+6,Hair Styling & Transformations_3,add,add,26,31.140288604749344
+7,Makeup Tutorials & Challenges_4,add,mul,23,44.8271522986578
+8,Makeup Tutorials & Challenges_1,add,mul,24,31.47264382212428
+9,Makeup Tutorials & Challenges_2,add,add,27,39.878420930842495
+10,Hair Styling & Transformations_1,add,add,26,27.47762785541064
+11,Educational Skincare & Wellness_2,add,add,28,43.1803642234056

@@ -6,4 +6,4 @@ statsmodels
 google-generativeai
 plotly
 scipy
-st-theme
+st_theme

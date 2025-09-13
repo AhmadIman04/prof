@@ -210,10 +210,6 @@ Now we have a distribution of 1,000 possible outcomes for the next 1, 3, or 6 mo
 
 By following this robust process, our system doesn't just give you a number. It gives you a **confident, defensible, and statistically-backed insight** into the future momentum of every beauty trend, allowing for smarter, data-driven decisions.
 
-Of course. Based on your `app.py` and `functions.py` code, you have built a sophisticated and highly valuable data product. The key is to explain not just *what* it does, but *why* it's powerful. This README is designed to do exactly that.
-
-Here is an eye-catching `README.md` for your data product.
-
 ---
 
 # 📈 Dashboard and data product overview

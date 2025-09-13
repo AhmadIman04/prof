@@ -1,5 +1,45 @@
 
 
+# 💄 L'Oréal Datathon: The AI-Powered Trend Spotter
+
+![L'Oréal Logo](https://img.shields.io/badge/L'Oréal-Datathon%20Project-005198?style=for-the-badge&logo=loreal) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit)
+
+This repository contains the complete project for the L'Oréal Datathon, where we developed an AI-driven system to identify and forecast emerging trends in the beauty industry from video content data.
+
+Our solution moves beyond simple analytics to provide a forward-looking view of what's next in beauty.
+
+---
+
+## ✨ See Our Trend Spotter in Action!
+
+Our interactive dashboard brings our findings to life, allowing you to explore content clusters, view historical trends, and see future forecasts for specific beauty niches.
+
+**Visit our live dashboard:**
+
+### ➡️ [**loreal-datathon-analysis.streamlit.app**](http://loreal-datathon-analysis.streamlit.app) ⬅️
+
+---
+
+##  prezentare generală a proiectului
+
+For a deeper dive into our methodology, findings, and strategic recommendations, please see our pitch deck and video presentation.
+
+| Resource | Link |
+| :--- | :--- |
+| 📊 **Pitch Deck** | [**View on Canva**](https://www.canva.com/design/DAGyt8lrlZA/ID6IJUGyIZl0z5SQnL3pew/edit) |
+| 📹 **Video Presentation** | [**Watch Here**](https://youtu.be/B6FwShRsvyU?si=aDoObXWaQEpTmyDu) |
+
+---
+
+## 📂 Repository Contents
+
+This repository contains all the necessary components of our project, from the Streamlit application code to the final processed datasets.
+
+-   **`app.py` & `functions.py`**: The core Python scripts that power our interactive Streamlit dashboard.
+-   **`cleaned_data_pipeline.ipynb`**: The complete Jupyter Notebook containing the end-to-end data processing, clustering, and forecasting models.
+-   **`videos_subclusters_corrected.csv`**: The final, cleaned dataset produced by our data pipeline. This file contains the raw video data enriched with our AI-generated topic and sub-topic labels.
+-   **`Holt_Winters_Parameters_anomaly.csv`**: The final output of the forecasting module. This CSV contains the optimized Holt-Winters parameters for each content niche, enabling accurate future predictions.
+
 # 📈 Content Intelligence Pipeline: From Raw Video Data to Actionable Forecasts
 
 ![Status](https://img.shields.io/badge/status-complete-green)![Python](https://img.shields.io/badge/Python-3.9%2B-blue)![Libraries](https://img.shields.io/badge/libs-pandas%20%7C%20sklearn%20%7C%20transformers-orange)

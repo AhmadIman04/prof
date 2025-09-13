@@ -256,8 +256,8 @@ This is the most powerful section. Instead of just one forecast, we show you the
 -   **The "Bell Curve" (KDE Plot)**: This shows the probability of different outcomes. The peak of the curve is the most likely outcome.
 -   **Recent Sum (Dashed Line)**: This vertical line shows the actual number of videos published in the last 1, 3, or 6 months. This is our baseline for comparison.
 -   **The Three Zones**:
-    -   🟢 **Green Zone (High Increase)**: If the dashed "Recent Sum" line falls here, it means it's statistically *outside* the 80% confidence interval on the lower end. There is high confidence that the future volume will be an **increase**.
-    -   🔴 **Red Zone (High Decrease)**: If the "Recent Sum" line falls here, it is statistically *outside* the confidence interval on the higher end. There is high confidence the trend is **decreasing**.
+    -   🟢 **Green Zone (High Decrease)**: If the dashed "Recent Sum" line falls here, it means it's statistically *outside* the 80% confidence interval on the lower end. There is high confidence that the future volume will be an **decrease**.
+    -   🔴 **Red Zone (High Increase)**: If the "Recent Sum" line falls here, it is statistically *outside* the confidence interval on the higher end. There is high confidence the trend is **increasing**.
     -   ⚪ **Gray Zone (Uncertain)**: If the "Recent Sum" line falls within the main gray area, the trend is considered stable or uncertain. The future outcome is too close to the recent past to declare a statistically significant change with high confidence.
 
 ---

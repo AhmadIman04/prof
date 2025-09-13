@@ -40,7 +40,7 @@ This repository contains all the necessary components of our project, from the S
 -   **`videos_subclusters_corrected.csv`**: The final, cleaned dataset produced by our data pipeline. This file contains the raw video data enriched with our AI-generated topic and sub-topic labels.
 -   **`Holt_Winters_Parameters_anomaly.csv`**: The final output of the forecasting module. This CSV contains the optimized Holt-Winters parameters for each content niche, enabling accurate future predictions.
 
-# 📈 Content Intelligence Pipeline: From Raw Video Data to Actionable Forecasts
+# 📈 Complete Data Pipeline Explanation: From Raw Video Data to Actionable Forecasts
 
 ![Status](https://img.shields.io/badge/status-complete-green)![Python](https://img.shields.io/badge/Python-3.9%2B-blue)![Libraries](https://img.shields.io/badge/libs-pandas%20%7C%20sklearn%20%7C%20transformers-orange)
 
@@ -117,29 +117,6 @@ The final, most powerful step is to predict the future.
 
 ---
 
-## 💻 How to Run This Pipeline
-
-1.  **Clone the repository:**
-    ```bash
-    git clone <your-repo-link>
-    cd <your-repo-folder>
-    ```
-
-2.  **Install the required libraries:**
-    ```bash
-    pip install pandas "scikit-learn==1.3.2" sentence-transformers kneed statsmodels gdown isodate
-    ```
-    *Note: A `requirements.txt` file is recommended for production environments.*
-
-3.  **Launch Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-
-4.  **Open and run `cleaned_data_pipeline.ipynb`:**
-    Open the notebook file and execute the cells from top to bottom. The script will handle downloading the data automatically.
-
----
 
 ## 🏁 Final Output
 

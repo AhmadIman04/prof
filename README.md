@@ -18,6 +18,8 @@ Our interactive dashboard brings our findings to life, allowing you to explore c
 
 ### ➡️ [**loreal-datathon-analysis.streamlit.app**](http://loreal-datathon-analysis.streamlit.app) ⬅️
 
+if you open up the dashboard and it says "This app has gone to sleep due to inactivity" just click on the blue button that says "Yes get this app back up"
+
 ## Dashboard snippets
 <img width="1671" height="827" alt="image" src="https://github.com/user-attachments/assets/c693bc57-37f5-4c5e-a831-a9ee9fab6d1b" />
 <img width="1678" height="845" alt="image" src="https://github.com/user-attachments/assets/5172a5b2-3e4a-4f18-b9c7-904f6603723d" />

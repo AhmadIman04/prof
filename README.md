@@ -10,7 +10,7 @@ Our solution moves beyond simple analytics to provide a forward-looking view of 
 
 ---
 
-## ✨ See Our Trend Spotter in Action!
+# ✨ See Our Trend Spotter in Action!
 
 Our interactive dashboard brings our findings to life, allowing you to explore content clusters, view historical trends, and see future forecasts for specific beauty niches.
 
@@ -20,7 +20,7 @@ Our interactive dashboard brings our findings to life, allowing you to explore c
 
 ---
 
-##  prezentare generală a proiectului
+#  Project Overview
 
 For a deeper dive into our methodology, findings, and strategic recommendations, please see our pitch deck and video presentation.
 
@@ -31,7 +31,7 @@ For a deeper dive into our methodology, findings, and strategic recommendations,
 
 ---
 
-## 📂 Repository Contents
+# 📂 Repository Contents
 
 This repository contains all the necessary components of our project, from the Streamlit application code to the final processed datasets.
 

@@ -18,6 +18,14 @@ Our interactive dashboard brings our findings to life, allowing you to explore c
 
 ### ➡️ [**loreal-datathon-analysis.streamlit.app**](http://loreal-datathon-analysis.streamlit.app) ⬅️
 
+## Dashboard snippets
+<img width="1671" height="827" alt="image" src="https://github.com/user-attachments/assets/c693bc57-37f5-4c5e-a831-a9ee9fab6d1b" />
+<img width="1678" height="845" alt="image" src="https://github.com/user-attachments/assets/5172a5b2-3e4a-4f18-b9c7-904f6603723d" />
+<img width="1708" height="820" alt="image" src="https://github.com/user-attachments/assets/b99288ae-0b5e-4b9d-a25a-5092b7117d1b" />
+
+
+
+
 ---
 
 #  Project Overview

@@ -30,7 +30,7 @@ Our interactive dashboard brings our findings to life, allowing you to explore c
 
 #  Project Overview
 
-For a deeper dive into our methodology, findings, and strategic recommendations, please see our pitch deck and video presentation.
+For a deeper dive into our methodology and findings, please see our pitch deck and video presentation.
 
 | Resource | Link |
 | :--- | :--- |
